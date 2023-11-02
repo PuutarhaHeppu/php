@@ -12,6 +12,7 @@
 <?php
     $firstname = "Marken ";
     $lastname = "Lemming ";
+    $ülesanne = "ülesanne 12 ";
     $fullname = $firstname." ".$lastname;
     $kuupäev = "03.10.2023<br>";
 
